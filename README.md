@@ -135,7 +135,7 @@ ML Service (Flask + Satellite + AI)
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/landchain.git
+git clone https://github.com/NishantChaubey534/Land-Registry-System.git
 cd landchain
 ```
 
